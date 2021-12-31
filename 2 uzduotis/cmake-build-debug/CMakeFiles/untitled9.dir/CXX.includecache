@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/37067/CLionProjects/2 uzduotis/Database.cpp
+Database.h
+C:/Users/37067/CLionProjects/2 uzduotis/Database.h
+
+C:/Users/37067/CLionProjects/2 uzduotis/Database.h
+Item.h
+C:/Users/37067/CLionProjects/2 uzduotis/item.h
+
+C:/Users/37067/CLionProjects/2 uzduotis/Item.cpp
+item.h
+C:/Users/37067/CLionProjects/2 uzduotis/item.h
+iostream
+-
+
+C:/Users/37067/CLionProjects/2 uzduotis/Order.cpp
+Order.h
+C:/Users/37067/CLionProjects/2 uzduotis/Order.h
+iostream
+-
+
+C:/Users/37067/CLionProjects/2 uzduotis/Order.h
+Processors.h
+C:/Users/37067/CLionProjects/2 uzduotis/Processors.h
+Storage.h
+C:/Users/37067/CLionProjects/2 uzduotis/Storage.h
+Database.h
+C:/Users/37067/CLionProjects/2 uzduotis/Database.h
+
+C:/Users/37067/CLionProjects/2 uzduotis/Processors.cpp
+Processors.h
+C:/Users/37067/CLionProjects/2 uzduotis/Processors.h
+
+C:/Users/37067/CLionProjects/2 uzduotis/Processors.h
+Item.h
+C:/Users/37067/CLionProjects/2 uzduotis/item.h
+
+C:/Users/37067/CLionProjects/2 uzduotis/Storage.cpp
+Storage.h
+C:/Users/37067/CLionProjects/2 uzduotis/Storage.h
+
+C:/Users/37067/CLionProjects/2 uzduotis/Storage.h
+Item.h
+C:/Users/37067/CLionProjects/2 uzduotis/item.h
+
+C:/Users/37067/CLionProjects/2 uzduotis/item.h
+string
+-
+
+C:/Users/37067/CLionProjects/2 uzduotis/main.cpp
+iostream
+-
+item.h
+C:/Users/37067/CLionProjects/2 uzduotis/item.h
+Storage.h
+C:/Users/37067/CLionProjects/2 uzduotis/Storage.h
+Processors.h
+C:/Users/37067/CLionProjects/2 uzduotis/Processors.h
+Database.h
+C:/Users/37067/CLionProjects/2 uzduotis/Database.h
+Order.h
+C:/Users/37067/CLionProjects/2 uzduotis/Order.h
+vector
+-
+ctime
+-
+
